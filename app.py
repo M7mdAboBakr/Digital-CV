@@ -63,7 +63,7 @@ with col1:
     """
     , unsafe_allow_html=True)
 
-    url_my_photo = "hhttps://raw.githubusercontent.com/M7mdAboBakr/Digital-CV/main/my_photo.jpg"
+    url_my_photo = "https://raw.githubusercontent.com/M7mdAboBakr/Digital-CV/main/my_photo.jpg"
     response_my_photo = requests.get(url_my_photo)
     col1.image(Image.open(BytesIO(response_my_photo.content)))
     
