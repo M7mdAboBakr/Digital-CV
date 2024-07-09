@@ -146,7 +146,7 @@ st.markdown("📖 **[BooksToScrape Web Scraping - Scraping Book Title, Rate and 
 st.markdown("📝 **[WUZZUF Web Scraping - Scraping Job Title and Job Requirements and Other Details](https://github.com/M7mdAboBakr/Web-Scraping-Python/tree/main/wuzzuf.com)**")
 st.markdown("⚽ **[YallaKora Web Scraping - Scraping The Teams, The Result and other Details](https://github.com/M7mdAboBakr/Web-Scraping-Python/tree/main/yallakora.com)**")
 st.markdown("🎯 **[Hungman Game - Guess The Word With Limited Attempts Game](https://github.com/M7mdAboBakr/Hungman-Game)**")
-st.markdown("🔐 **[Password Generator - 16 Digit Strong Password Generator](https://github.com/M7mdAboBakr/Strong-Password-Generator)**")
+st.markdown("🔐 **[Password Generator - Controlable N-Digit (Default=16) Strong Password Generator](https://github.com/M7mdAboBakr/Strong-Password-Generator)**")
 st.markdown("💥 **[Thanos - Program that Deletes Half of The Files Randomly Choosen](https://github.com/M7mdAboBakr/Thanos)**")
 st.markdown("🏛️ **[Library System - Managment System for Libraries with OOP](https://github.com/M7mdAboBakr/Library-System)**")
 st.markdown("✂ **[Rock Paper Scissors Game - You and Computer, The First One Reaches 5 Wins](https://github.com/M7mdAboBakr/Rock-Paper-Scissors-Game)**")
