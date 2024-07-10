@@ -82,6 +82,16 @@ with col2:
     st.title("Mohamed Abobakr")
     st.write("Junior Data Analyst")
 
+    with open("my_resume.pdf", "rb") as pdf_file:
+        PDFbyte = pdf_file.read()
+
+    col2.download_button(
+            label=" 📄 Download Resume",
+            data=PDFbyte,
+            file_name='my_resume.pdf',
+            mime="application/octet-stream",
+        )
+
 st.write('\n')
 st.write('\n')
 
