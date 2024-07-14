@@ -80,7 +80,7 @@ with col2:
     """
     , unsafe_allow_html=True)
     st.title("Mohamed Abobakr")
-    st.write("Junior Data Analyst")
+    st.write("Junior Data Scientist")
 
     with open("my_resume.pdf", "rb") as pdf_file:
         PDFbyte = pdf_file.read()
@@ -110,7 +110,7 @@ st.write('\n')
 
 st.subheader(f"🛠️ Technical Skills")
 st.divider()
-st.write("- **👨🏻‍💻 Programming:** Python, SQL")
+st.write("- **👨🏻‍💻 Programming:** Python")
 st.write("- **🌐 Web Scraping:** BeautifulSoup")
 st.write("- **📶 Data Analysis:** NumPy, Pandas")
 st.write("- **📉 Statistical Analysis:** Descriptive Statistics")
