@@ -149,7 +149,7 @@ st.write('\n')
 
 st.subheader(f"🖥️ Projects")
 st.divider()
-st.markdown("🦾 **[Corona Virus EDA & ML - Analysis, Model and Dashboard and for Corona Virus Data](https://github.com/M7mdAboBakr/Corona-EDA-Model)**")
+st.markdown("🦾 **[Corona Virus Machine Learning and EDA - Model, Analysis and Dashboard and for Corona Virus Data](https://github.com/M7mdAboBakr/Corona-EDA-Model)**")
 st.markdown("📊 **[Hotel Bookings EDA - Analysis and Dashboard for Hotel Bookings Data](https://github.com/M7mdAboBakr/HotelBookings-EDA-Dashboard)**")
 st.markdown("📊 **[Ecommerce EDA - Analysis and Dashboard for Ecommerce Data](https://github.com/M7mdAboBakr/Ecommerce-EDA-Dashboard)**")
 st.markdown("📖 **[DIWAN Web Scraping - Scraping Some Books Details](https://github.com/M7mdAboBakr/Web-Scraping-Python/tree/main/diwan.com)**")
